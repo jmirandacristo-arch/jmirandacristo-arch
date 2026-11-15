@@ -7,11 +7,13 @@
   <code>From Math Foundations to Edge Predictive Maintenance ⚙️</code>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-  <img src="https://shields.io" alt="Followers" />
-  <a href="https://www.linkedin.com/in/juan-camilo-miranda-cristo-b7195b1b1?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://shields.io" alt="LinkedIn" /></a>
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com)
+![Followers](https://shields.io)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/juan-camilo-miranda-cristo-b7195b1b1?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+</div>
 
 ---
 
