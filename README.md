@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.jpeg" alt="Banner" width="100%" />
+</p>
 <h1 align="center">👋 Hi, I'm Camilo</h1>
 
 <p align="center">
