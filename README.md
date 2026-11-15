@@ -28,10 +28,10 @@ Mechanical Maintenance Technician and Systems Engineering student building a sol
 My goal is to bridge hands-on industrial equipment diagnostics with rigorous mathematical theory, translating real-world physical behavior into intuitive, reproducible code.
 
 ### Current Focus & Roadmap
-- [ ] **Set Theory & Logic:** Mapping sample spaces and fault trees to system reliability.
-- [ ] **Precalculus & Trigonometry:** Modeling mechanical vibrations, electrical harmonics, and sensor signals.
-- [ ] **Calculus & Linear Algebra:** Understanding optimization, gradients, and spectral analysis (FFT).
-- [ ] **TinyML & Edge Deployment:** Running lightweight anomaly detection models on microcontrollers.
+- **Set Theory & Logic:** Mapping sample spaces and fault trees to system reliability.
+- **Precalculus & Trigonometry:** Modeling mechanical vibrations, electrical harmonics, and sensor signals.
+- **Calculus & Linear Algebra:** Understanding optimization, gradients, and spectral analysis (FFT).
+- **TinyML & Edge Deployment:** Running lightweight anomaly detection models on microcontrollers.
 
 ### Tech Stack & Industrial Domain
 - **Languages & Core:** Python, C++, LaTeX, Markdown
